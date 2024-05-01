@@ -1,0 +1,14 @@
+                                    AUTOMATIC TICKET DISTRIBUTER
+      
+
+
+Abstract:
+        Bus transportation is one of the main transportation systems in India. The passengers are increasing day by day, 
+        so it is important to make their journey more comfortable and easy. Therefore, we are introducing a system called 
+        E-Ticket which helps the passengers to get the ticket in one swipe. The system contains components like Arduino, 
+        LCD, Sim Module, RFID Reader/Writer. When the passengers swipe the card while they are enter and exit the location 
+        is read and the distance will be calculated and the amount is directly paid through net-banking. The information 
+        acknowledged to the passengers to their mobile phone and receipt. The system is also used to calculate the number
+         of passengers inside the bus.
+
+Keywords- Arduino, LCD, Sim Module, RFID Reader/Writer.
